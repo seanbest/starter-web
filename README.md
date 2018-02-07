@@ -2,6 +2,8 @@
 
 This is a simple webiste project for showing how to use Git and Github together.
 
+Adding a line for rebasing example.
+
 ## Introduction
 
 This is an example to show different parts of the Git repository and various commands using a web project.
